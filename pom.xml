@@ -71,6 +71,12 @@
 			<artifactId>lombok-mapstruct-binding</artifactId>
 			<version>0.2.0</version>
 		</dependency>
+		<!-- DTO partagés -->
+		<dependency>
+			<groupId>com.elmrabet</groupId>
+			<artifactId>common-dto</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>

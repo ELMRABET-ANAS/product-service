@@ -1,6 +1,6 @@
 package com.elmrabet.productService.mapper;
 
-import com.elmrabet.productService.dto.ProductDTO;
+import com.elmrabet.common.dto.ProductDTO;
 import com.elmrabet.productService.entity.Product;
 import java.util.List;
 import org.mapstruct.Mapper;

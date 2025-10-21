@@ -1,6 +1,6 @@
 package com.elmrabet.productService.service;
 
-import com.elmrabet.productService.dto.ProductDTO;
+import com.elmrabet.common.dto.ProductDTO;
 import com.elmrabet.productService.entity.Product;
 import com.elmrabet.productService.mapper.ProductMapper;
 import com.elmrabet.productService.repository.ProductRepository;

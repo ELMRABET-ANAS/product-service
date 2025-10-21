@@ -1,7 +1,6 @@
 package com.elmrabet.productService;
 
-import com.elmrabet.productService.dto.ProductDTO;
-import com.elmrabet.productService.repository.ProductRepository;
+import com.elmrabet.common.dto.ProductDTO;
 import com.elmrabet.productService.service.ProductService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
